@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env*
+
+# Project data & outputs (keep out of git)
+data/
+reports/
+notebooks/.ipynb_checkpoints/
